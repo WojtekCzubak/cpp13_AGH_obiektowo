@@ -117,7 +117,14 @@ int main()
 }
 
 
-
+// ZADANIE DOMOWE NA ZAJECIA 14
+//class MyVector {
+//    explicit MyVector(size_t n);
+//    ___operator[](___)
+//private:
+//    double *elems_;
+//    size_t size_;
+//};
 
 
 
