@@ -127,7 +127,7 @@ int main()
 //};
 
 
-
+// https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html
 
 
 
